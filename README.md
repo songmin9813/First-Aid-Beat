@@ -1,2 +1,3 @@
 # First-Aid-Beat
-Rhythm game math with Unity. inspired by a game "Crypt of the NecroDancer"
+Rhythm game made with Unity. inspired by a game "Crypt of the NecroDancer".
+Game files and source codes for everyone. Enjoy!
